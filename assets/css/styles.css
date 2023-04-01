@@ -335,6 +335,12 @@ img {
   color: var(--text-color);
 }
 
+.follow__erland {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
 .scrollup {
   position: fixed;
   background-color: var(--first-color);
